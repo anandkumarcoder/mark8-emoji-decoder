@@ -7,7 +7,11 @@ var emojiDictionary = {
   "😍": "Smiling face with heart eyes",
   "🤩": "star-stuck",
   "💖": "love",
-  "😷": "face with mask"
+  "😷": "face with mask",
+  "🤗": "hugging face",
+  "🙄": "face with rolling eyes",
+  "🍕": "pizza",
+  "🍗": "Chicken leg piece "
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary); //4.we mar mapping emoji dictionary with emojisweknow using object key
